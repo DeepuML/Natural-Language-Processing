@@ -42,10 +42,20 @@ Run scripts/preprocess.py to clean and tokenize datasets.
 Train your models using scripts in models/.
 
 Use deployment templates in deployment/ to expose your models via API endpoints. 
+
+
 🎯 Goals
+
+
 ✅ Learn fundamental NLP concepts systematically
+
+
 ✅ Implement end-to-end NLP pipelines
+
+
 ✅ Practice ML and DL-based NLP models
+
+
 ✅ Build deployable NLP services
 
 
